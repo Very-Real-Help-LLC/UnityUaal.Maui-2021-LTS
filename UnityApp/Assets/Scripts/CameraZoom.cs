@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CamZoom : MonoBehaviour
+public class CameraZoom : MonoBehaviour
 {
     public float zoomSpeed = 250f;
     public float zoomMin = 30f;
