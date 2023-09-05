@@ -14,7 +14,7 @@ public class NativeBridge {
 
 public class Bridge : MonoBehaviour
 {
-    public const string eventContentDeliminator = "|";
+    public const char eventContentDeliminator = '|';
 
     void Update()
     {
